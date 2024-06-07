@@ -6,5 +6,6 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; opacity: 0.8; background: url('https://raw.githubusercontent.com/AntiEngineer/AntiEngineer/main/sys_000784022d8d07eb6841ef2502d9d35851dad58.jpg
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; opacity: 0.8; background: url('https://raw.githubusercontent.com/ItsVixano/ItsVixano/main/img/bg.gif
 ');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; opacity: 0.4; background-color: #000;]{x0000}$}
